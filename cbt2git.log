@@ -1,0 +1,51 @@
+2023-08-06 06:54:10.549557 - Initialized conversion of CBT755
+2023-08-06 06:54:10.933275 - Received CBT.V505.FILE755.PDS from FILE755.XMI 
+2023-08-06 06:54:10.936037 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:54:10.937269 - Found $$CHGS.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/$$CHGS
+2023-08-06 06:54:10.938358 - Found $$DOC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/$$DOC
+2023-08-06 06:54:10.939386 - Found $$ENHANC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/$$ENHANC
+2023-08-06 06:54:10.940594 - Found @FILE755.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/@FILE755
+2023-08-06 06:54:10.941521 - Found DOCPRINT.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/DOCPRINT
+2023-08-06 06:54:10.942473 - Found JRP.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP
+2023-08-06 06:54:10.943574 - Found JRPAMAC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPAMAC
+2023-08-06 06:54:10.944585 - Found JRPDMAC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPDMAC
+2023-08-06 06:54:10.944595 - Found JRPDOCP.bin containing application/octet-stream, moved to PDS/JRPDOCP
+2023-08-06 06:54:10.945547 - Found JRPEX.bin containing application/octet-stream, moved to PDS/JRPEX
+2023-08-06 06:54:10.947679 - Found JRPGLBL.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPGLBL
+2023-08-06 06:54:10.948808 - Found JRPINIT.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPINIT
+2023-08-06 06:54:10.949907 - Found JRPINITS.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPINITS
+2023-08-06 06:54:10.951021 - Found JRPINST.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPINST
+2023-08-06 06:54:10.952012 - Found JRPINST1.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPINST1
+2023-08-06 06:54:10.953026 - Found JRPINST4.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPINST4
+2023-08-06 06:54:10.953035 - Found JRPREGS.bin containing application/octet-stream, moved to PDS/JRPREGS
+2023-08-06 06:54:10.955082 - Found JRPRINT.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPRINT
+2023-08-06 06:54:10.956142 - Found JRPRINTH.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPRINTH
+2023-08-06 06:54:10.957258 - Found JRPRTRN.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPRTRN
+2023-08-06 06:54:10.958249 - Found JRPSAVE.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPSAVE
+2023-08-06 06:54:10.959312 - Found JRPSMAC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPSMAC
+2023-08-06 06:54:10.960332 - Found JRPTMAC.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPTMAC
+2023-08-06 06:54:10.961344 - Found JRPUNLD.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRPUNLD
+2023-08-06 06:54:10.962348 - Found JRP100.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP100
+2023-08-06 06:54:10.963356 - Found JRP110.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP110
+2023-08-06 06:54:10.964330 - Found JRP120.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP120
+2023-08-06 06:54:10.965327 - Found JRP121.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP121
+2023-08-06 06:54:10.966272 - Found JRP122.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP122
+2023-08-06 06:54:10.967334 - Found JRP123.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP123
+2023-08-06 06:54:10.968294 - Found JRP200.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP200
+2023-08-06 06:54:10.969236 - Found JRP210.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP210
+2023-08-06 06:54:10.970298 - Found JRP220.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP220
+2023-08-06 06:54:10.971230 - Found JRP300.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP300
+2023-08-06 06:54:10.972368 - Found JRP310.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP310
+2023-08-06 06:54:10.973415 - Found JRP4DS.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP4DS
+2023-08-06 06:54:10.974402 - Found JRP4SMF.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP4SMF
+2023-08-06 06:54:10.975341 - Found JRP400.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/JRP400
+2023-08-06 06:54:10.976261 - Found OFFLOAD.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/OFFLOAD
+2023-08-06 06:54:10.977137 - Found RUNJRP.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/RUNJRP
+2023-08-06 06:54:10.978207 - Found SMF1.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/SMF1
+2023-08-06 06:54:10.978217 - Found TEST.bin containing application/octet-stream, moved to PDS/TEST
+2023-08-06 06:54:10.980124 - Found TESTR.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/TESTR
+2023-08-06 06:54:10.981054 - Found TEST1.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/TEST1
+2023-08-06 06:54:10.982072 - Found TEST1R.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/TEST1R
+2023-08-06 06:54:10.983071 - Found T1.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/T1
+2023-08-06 06:54:10.984143 - Found UNLOAD.jcl (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/UNLOAD
+2023-08-06 06:54:10.985174 - Found WRTSMF.txt (text/plain) in CBT.V505.FILE755.PDS, moved to PDS/WRTSMF
